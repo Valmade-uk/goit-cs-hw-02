@@ -4,11 +4,11 @@
 # Python
 __pycache__/
 *.py[cod]
-.venv/
 *.log
+.venv/
 
-# Secrets
+# Secrets/ENV
 .env
 
-# Local DB file (ми на Postgres)
+# Локальна SQLite (ми на Postgres)
 sql_app.sqlite3
