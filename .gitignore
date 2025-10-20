@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.log
+
+# Secrets
+.env
+
+# Local DB file (ми на Postgres)
+sql_app.sqlite3
