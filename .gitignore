@@ -12,3 +12,6 @@ __pycache__/
 
 # Локальна SQLite (ми на Postgres)
 sql_app.sqlite3
+
+# Archives
+*.zip
