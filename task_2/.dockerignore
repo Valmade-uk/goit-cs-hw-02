@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Віртуальні середовища та кеші
+.venv/
+.env/
+pip-wheel-metadata/
+*.egg-info/
+
+# Системні файли macOS
+.DS_Store
+
+# Git
+.git/
+.gitignore
+
+# Логи та тимчасові файли
+*.log
+*.tmp
+
+# Локальна SQLite-база (ми використовуємо Postgres у контейнері)
+sql_app.sqlite3
+
+# IDE
+.vscode/
+.idea/
